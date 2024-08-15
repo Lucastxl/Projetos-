@@ -2,3 +2,4 @@
 meu nome é **Lucas** 🥇
 **estou estudando na alura**
 _estou me desenvolvendo na linguagem javascript_ 💻
+![Uploading image.png…]()
